@@ -1,5 +1,16 @@
 body {
-  background-color: white;
-  color: black;
-  font-family:georgia;
+  margin: 40px
+  auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  background: #FAF9F6;
+  padding: 0
+  10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
 }
